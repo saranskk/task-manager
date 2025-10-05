@@ -3,7 +3,7 @@ Full Stack Task Manager project with Node.js, Express, MongoDB and Vanilla JS fr
 
 Task Manager App A Fullstack Task Manager application built with:
 
-Frontend: HTML, CSS, JavaScript Backend: Node.js, Express.js, MongoDB Authentication: JWT-based login & register Features User registration & login JWT-based authentication for secure access Dashboard with CRUD operations for tasks Search tasks by title Logout functionality Installation & Run Locally Clone the repository** **```bash git clone https://github.com/saranskk/task-manager.git 2.Go to the project folder cd task-manager
+Frontend: HTML, CSS, JavaScript Backend: Node.js, Express.js, MongoDB Authentication: JWT-based login & register Features User registration & login JWT-based authentication for secure access Dashboard with CRUD operations for tasks Search tasks by title Logout functionality Installation & Run Locally Clone the repository** **```bash git clone [https://github.com/saranskk/task-manager.git](https://github.com/saranskk/task-manager.git) 2.Go to the project folder cd task-manager
 
 3.Install backend dependencies npm install
 
@@ -13,4 +13,4 @@ Create a .env file in the backend folder with: MONGO_URI=mongodb+srv://SaranyaKa
 
 Notes:
 
-Make sure MongoDB is running or your cloud MongoDB URI is correct. Registration → Dashboard → Tasks CRUD flow is fully working. JWT token stored in localStorage for session management. git clone https://github.com/saranskk/task-manager.git
+Make sure MongoDB is running or your cloud MongoDB URI is correct. Registration → Dashboard → Tasks CRUD flow is fully working. JWT token stored in localStorage for session management. git clone [https://github.com/saranskk/task-manager.git](https://github.com/saranskk/task-manager.git)
