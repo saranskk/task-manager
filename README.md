@@ -9,7 +9,7 @@ Frontend: HTML, CSS, JavaScript Backend: Node.js, Express.js, MongoDB Authentica
 
 Create a .env file in the backend folder with: MONGO_URI=mongodb+srv://SaranyaKannan:Saransk230617@cluster0.qckyx2o.mongodb.net/?retryWrites=true&w=majority JWT_SECRET=your_jwt_secret PORT=5000 5.Run the backend server node index.js
 
-6.Open index.html in browser to access the frontend. Demo Links Frontend (GitHub Pages): https://saranskk.github.io/task-manager/ Backend (Localhost): http://localhost:5000
+6.Open index.html in browser to access the frontend. Demo Links Frontend (GitHub Pages): [https://saranskk.github.io/task-manager](https://saranskk.github.io/task-manager/)/ Backend (Localhost): http://localhost:5000
 
 Notes:
 
